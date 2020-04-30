@@ -1,0 +1,3 @@
+C:\c#\IntergenicResearchLibraryy\obj\Debug\netcoreapp3.0\IntergenicResearchLibraryy.csprojAssemblyReference.cache
+C:\c#\IntergenicResearchLibraryy\obj\Debug\netcoreapp3.0\IntergenicResearchLibraryy.AssemblyInfoInputs.cache
+C:\c#\IntergenicResearchLibraryy\obj\Debug\netcoreapp3.0\IntergenicResearchLibraryy.AssemblyInfo.cs
